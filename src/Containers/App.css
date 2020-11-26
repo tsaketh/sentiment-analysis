@@ -1,4 +1,14 @@
-.App {
+@font-face {
+  font-family: myRoboFont;
+  src: url('./Zilap\ Black\ Storm\ DEMO.ttf');
+}
+.myFont {
+  font-family: myRoboFont;
+  font-weight: bold;
+}
+.myBlue {
+  color: rgba(0, 225, 255, 0.63);
+}.App {
   text-align: center;
 }
 
