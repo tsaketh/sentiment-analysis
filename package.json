@@ -1,5 +1,6 @@
 {
   "name": "sentiment-analysis",
+  "homepage": "https://tsaketh.github.io/sentiment-analysis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
