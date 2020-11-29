@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sentiment-analysis/static/css/main.d52b0828.chunk.css",
+    "main.js": "/sentiment-analysis/static/js/main.211cca67.chunk.js",
+    "main.js.map": "/sentiment-analysis/static/js/main.211cca67.chunk.js.map",
+    "runtime-main.js": "/sentiment-analysis/static/js/runtime-main.eaf035be.js",
+    "runtime-main.js.map": "/sentiment-analysis/static/js/runtime-main.eaf035be.js.map",
+    "static/css/2.038644eb.chunk.css": "/sentiment-analysis/static/css/2.038644eb.chunk.css",
+    "static/js/2.e46b6eb1.chunk.js": "/sentiment-analysis/static/js/2.e46b6eb1.chunk.js",
+    "static/js/2.e46b6eb1.chunk.js.map": "/sentiment-analysis/static/js/2.e46b6eb1.chunk.js.map",
+    "index.html": "/sentiment-analysis/index.html",
+    "precache-manifest.d7a1cf2541b64580538ab8370eeee5f1.js": "/sentiment-analysis/precache-manifest.d7a1cf2541b64580538ab8370eeee5f1.js",
+    "service-worker.js": "/sentiment-analysis/service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "/sentiment-analysis/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.d52b0828.chunk.css.map": "/sentiment-analysis/static/css/main.d52b0828.chunk.css.map",
+    "static/js/2.e46b6eb1.chunk.js.LICENSE.txt": "/sentiment-analysis/static/js/2.e46b6eb1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sentiment-analysis/static/media/Zilap Black Storm DEMO.b68b1c65.ttf",
+    "static/media/emoji_0.png": "/sentiment-analysis/static/media/emoji_0.f890044b.png",
+    "static/media/emoji_1.png": "/sentiment-analysis/static/media/emoji_1.fad0d218.png",
+    "static/media/emoji_2.png": "/sentiment-analysis/static/media/emoji_2.5518e764.png",
+    "static/media/emoji_3.png": "/sentiment-analysis/static/media/emoji_3.02543668.png",
+    "static/media/emoji_4.png": "/sentiment-analysis/static/media/emoji_4.9f6dc92a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf035be.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.e46b6eb1.chunk.js",
+    "static/css/main.d52b0828.chunk.css",
+    "static/js/main.211cca67.chunk.js"
+  ]
+}
