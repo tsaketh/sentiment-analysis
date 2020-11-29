@@ -22,7 +22,7 @@ class App extends Component {
     )
   }
   getSentiment = () => {
-    fetch("http://localhost:5000/api/v1/getsentiment", {
+    fetch("https://ts-sentiment-analysis-8991.herokuapp.com/api/v1/getsentiment", {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
